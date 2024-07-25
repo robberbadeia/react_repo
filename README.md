@@ -38,7 +38,7 @@ or if you are using yarn:
 
     ```bash
     yarn install
-    ````
+    ```
 
 4. Running Locally:
 
