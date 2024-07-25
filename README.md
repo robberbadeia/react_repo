@@ -36,9 +36,9 @@ To install Game-Hub, follow these steps:
 
 or if you are using yarn:
 
-```bash
+````bash
  yarn install
-```
+````
 
 4. Running Locally:
 
