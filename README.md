@@ -34,7 +34,7 @@ To install Game-Hub, follow these steps:
     npm install
    ```
 
-or if you are using yarn:
+    or if you are using yarn:
 
     ```bash
     yarn install
@@ -46,7 +46,7 @@ or if you are using yarn:
     npm start
     ```
 
-or if you are using yarn:
+    or if you are using yarn:
 
     ```bash
     yarn start
