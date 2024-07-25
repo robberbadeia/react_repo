@@ -36,20 +36,24 @@ To install Game-Hub, follow these steps:
 
 or if you are using yarn:
 
-````bash
+```bash
  yarn install
+```
 
 4. Running Locally:
 
 ```bash
  npm start
+```
 
 or if you are using yarn:
 
 ```bash
  yarn start
+```
+
 Open http://localhost:3000 in your browser to view the application.
 
 ## License:
+
 This project is licensed under the MIT License - see the LICENSE file for details.
-````
